@@ -6,6 +6,7 @@ public class AndroidTv extends Television{
         }
 
     void manufacturer() {
-        System.out.println("Google tv dev stash");
+        System.out.println("Google tv dev new");
+
     }
 }
