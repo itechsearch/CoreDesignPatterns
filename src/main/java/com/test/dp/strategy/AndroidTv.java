@@ -6,6 +6,6 @@ public class AndroidTv extends Television{
         }
 
     void manufacturer() {
-        System.out.println("Google tv");
+        System.out.println("Google tv  v1");
     }
 }
